@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 font-style="Verdana">👋 Hi, I'm Green</h2>
 
-<!--
-**GreenEdwinO/GreenEdwinO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌀-I'm a Web Developer -learning more, and helping others become one too.
 
-Here are some ideas to get you started:
+🏳️ I’m interested in helping in FRONT END WEB Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+🤗 I’m currently having fun Volunteering.
+
+💞️ I’m looking to collaborate on exciting projects.
+
+📫 Kindly reach me for collaboration(s) via email: greenojegwo@gmail.com
+<hr>
+                          
+🐦 I'm also on Twitter and Linkedin, where I share tips towards innovative work: www.twitter.com/ProgrammingSage | www.linkedin.com/in/greenedwinojegwo
+
+💝 How to support me in a Special Way 🦋: https://barter.me/green
