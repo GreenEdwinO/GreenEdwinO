@@ -10,13 +10,13 @@
 
 💞️ I’m looking to collaborate on exciting projects.
 
-✨ Check out my awesome past projects and work samples 
+✨ Check out my awesome past projects and work samples -mostly 'Private' Repos. 
 
 <hr>
 
-📫 Kindly reach me via email: greenojegwo@gmail.com
+📬 Kindly reach me via email: greenojegwo@gmail.com
                           
-🐦 I'm also on Twitter and Linkedin, where I share tips towards innovative work: www.twitter.com/ProgrammingSage | www.linkedin.com/in/greenedwinojegwo
+📜 I'm also on Twitter and Linkedin, where I share tips towards innovative work: www.twitter.com/ProgrammingSage | www.linkedin.com/in/greenedwinojegwo
 
 💝 How to support me in a Special Way 🦋: https://barter.me/green
 
