@@ -19,7 +19,7 @@
 <h3>📜 I'm also on Twitter, where I share tips towards innovative work: www.twitter.com/GreenEdwinO</h3>
 
 <h3>💝 How to support me in a Special Way 🦋: https://barter.me/green</h3>
-<h2>🚀 Targeted Languages and Tools:</h2>
+<h2>Targeted Languages and Tools 🚀:</h2>
 
 <p data-sourcepos="25:1-26:5" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67">
   <img src="https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/30/html-5.png" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4fdeab7e775dbfb1cca495f10c5847f005054e55e6b91baa2ae09153ccf09d98/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f637373332e706e67">
