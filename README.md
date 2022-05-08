@@ -3,7 +3,7 @@
 
 <h4>🌍 A FrontEnd Developer. -learning more and helping others become one too.</h4>
 
-<h4>🏳️ I’m interested in helping in Front End Web Development.</h4>
+<h4>🏳️ I’m interested in helping, ask me about Web Development, Open Source, Technical Writing.</h4>
 
 <h4>🚀 Targeted Languages and Tools: <span data-sourcepos="25:1-26:5" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67">
   <img src="https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/30/html-5.png" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4fdeab7e775dbfb1cca495f10c5847f005054e55e6b91baa2ae09153ccf09d98/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f637373332e706e67">
@@ -20,13 +20,13 @@
 
 <h4>🤗 I’m currently having fun Practicing and Volunteering.</h4>
 
-<h3>💞️ I’m looking to collaborate on exciting projects.</h3>
+<h4>💞️ I’m looking to collaborate on exciting projects.</h4>
 
 <h4>✨ Check out my awesome past projects and work samples -most are on 'Private' Repos.</h4>
 
 <hr>
 
-<h4>📬 Kindly reach me via email for collaborations.</h4>
+<h4>📬 Kindly reach me via email on my bio for collaboration(s).</h4>
                           
 <h4>📜 I'm also on Twitter, where I share tips towards innovative work: www.twitter.com/GreenEdwinO</h4>
 
