@@ -1,7 +1,7 @@
-<h3 font-style="Verdana"><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="greenedwinojegwo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/greenedwinojegwo?trk=profile-badge">👋 Hi, I'm Green</a></div>
+<h3 font-style="Verdana"><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="greenedwinojegwo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/greenedwinojegwo?trk=profile-badge">👋 Hi there, I'm Green</a></div>
               </h3>
 
-<h4>🌍 I'm a Web Developer. -learning more and helping others become one too.</h4>
+<h4>🌍 A FrontEnd Developer. -learning more and helping others become one too.</h4>
 
 <h4>🏳️ I’m interested in helping in Front End Web Development.</h4>
 
