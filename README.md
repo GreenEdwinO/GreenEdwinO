@@ -20,7 +20,7 @@
 
 <h4>🤗 I’m currently having fun Practicing and Volunteering.</h4>
 
-<h4>💞️ I’m looking to collaborate on exciting projects.</h4>
+<h4>💞️ I’m looking to collaborate on exciting projects. More info on my website: <a href="https://greenojegwo.netlify.app/">www.greenojegwo.com</a></h4>
 
 <h4>✨ Check out my awesome past projects and work samples -most are on 'Private' Repos.</h4>
 
