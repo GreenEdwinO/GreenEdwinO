@@ -1,4 +1,4 @@
-<h3 font-style="Verdana"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"  class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="greenedwinojegwo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://greenojegwo.netlify.app/"> Hi there! I'm Green</a></h3>
+<h3 font-style="Verdana"><a class="badge-base__link LI-simple-link" href="https://greenojegwo.netlify.app/"> Hi there! 👋 I'm Green</a></h3>
 
 <h4>🌍 A FrontEnd Developer. -learning more and helping others become one too.</h4>
 
