@@ -19,7 +19,7 @@
 
 <h4>🤗 I’m currently having fun Practicing and Volunteering.</h4>
 
-<h4>💞️ I’m looking to collaborate on exciting projects. More info on my website: <a href="https://green-profile.netlify.app/">www.greenojegwo.com</a></h4>
+<h4>💞️ I’m looking to collaborate on exciting projects. More info on my website: <a href="https://green-profile.netlify.app/">www.greenedwino.com</a></h4>
 
 <h4>✨ Check out my awesome past projects and work samples -some on 'Private' Repos.</h4>
 
