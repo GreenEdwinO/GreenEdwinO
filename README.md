@@ -1,4 +1,4 @@
-<h3 font-style="Verdana"><a class="badge-base__link LI-simple-link" href="https://greenojegwo.netlify.app/"> Hi there! 👋 I'm Green</a></h3>
+<h3 font-style="Verdana"><a class="badge-base__link LI-simple-link" href="https://green-profile.netlify.app/"> Hi there! 👋 I'm Green</a></h3>
 
 <h4>🌍 A FrontEnd Developer. -learning more and helping others become one too.</h4>
 
