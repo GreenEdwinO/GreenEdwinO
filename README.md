@@ -25,7 +25,7 @@
 
 <hr>
 
-<h4>📬 Kindly reach me via email on my bio for collaboration(s).</h4>
+<h4>📬 Do reach out to me for collaboration(s).</h4>
                           
 <h4>📜 I'm also on Twitter, where I share tips towards innovative work: www.twitter.com/GreenEdwinO</h4>
 
